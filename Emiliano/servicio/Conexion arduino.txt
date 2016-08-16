@@ -1,0 +1,14 @@
+Conexion arduino:
+
+Pines de salida: 
+
+Naranja -> A5
+Amarillo -> A4
+Verde -> A3
+Azul -> A2
+Morado -> A1
+
+Alimentación: 
+
+Amarillo -> GND
+Naranja -> 5V
